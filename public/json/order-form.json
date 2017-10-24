@@ -1,0 +1,82 @@
+{
+	"fields":[
+		{
+			"label": "Contact Person",
+			"name": "contact_person",
+			"type": "text",
+			"note": "",
+			"class": ""
+		},
+		{
+			"label": "Company Legal Name",
+			"name": "company_legal_name",
+			"type": "text",
+			"note": "",
+			"class": ""
+		},
+		{
+			"label": "Equipment Delivery Address",
+			"name": "equipment_delivery_address",
+			"type": "text",
+			"note": "Please include the complete address including State and Postcode/ZipCode",
+			"class": "autocomplete address"
+		},
+		{
+			"label": "Tax ID",
+			"name": "tax_id",
+			"type": "text",
+			"note": "",
+			"class": ""
+		},
+		{
+			"label": "Phone No.",
+			"name": "phone_no",
+			"type": "(Please include international area code if applicable.)",
+			"note": "",
+			"class": ""
+		},
+		{
+			"label": "Estimated Studio Opening Date",
+			"name": "estimated_studio_opening_date",
+			"type": "text",
+			"note": "",
+			"class": "date"
+		},
+		{
+			"label": "Earliest date to receive and store stock",
+			"name": "earliest_date_to_receive_and_store_stock",
+			"type": "text",
+			"note": "",
+			"class": "date"
+		},
+		{
+			"label": "Can a semi-trailer access your delivery area?",
+			"name": "can_a_semi_trailer_access_your_delivery_area",
+			"type": "radio",
+			"note": "(For example city streets, Restricted parking times, low laying power lines etc.)",
+			"class": ""
+		},
+		{
+			"label": "Do you require extra flooring?",
+			"name": "do_you_require_extra_flooring",
+			"type": "radio",
+			"note": "(Does your studio need more than the scheduled 160 sqm flooring? Please take into consideration that the turf is 43.2 sqm. You do not need to lay the rubber tiles under the turf. So all in all you have 160 sqm rubber tiles and 43.2 sqm of turf which totals = 203.2 sqm)",
+			"class": ""
+		},
+		{
+			"label": "Extra Sq m",
+			"name": "extra_sq_m",
+			"type": "textbox",
+			"note": "(Please input square meters)",
+			"class": ""
+		},
+		{
+			"label": "Any notes from the equipment schedule:",
+			"name": "variation_notes",
+			"type": "textarea",
+			"note": "",
+			"class": ""
+		}
+
+	]
+}

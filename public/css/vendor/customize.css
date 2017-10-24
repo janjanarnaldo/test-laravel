@@ -1,0 +1,302 @@
+.sticky-wrapper {
+    height: auto;
+}
+.hero-section {
+    background-color: #373C74;
+    background-size: cover;
+}
+img.logo-nav{
+    height: 50px;
+}
+img.logo-head {
+    height: 70px;
+}
+#login-form .modal-body {
+    text-align: center;
+}
+#login-form .modal-heading {
+    padding-bottom: 5%;
+}
+#login-form #login-submit {
+    width: 60%;
+}
+#login-form #login-submit:hover,
+#login-form #login-submit:focus {
+    color: #fff;
+    background-color: #F74343;
+    border-color: #F74343 !important;
+}
+#login-form .login-help {
+    padding-top: 2%;
+    color: #F56363;
+}
+.cta-btn {
+    margin: 5% 0;
+}
+.welcome-message .row .col-md-12 h1 {
+    font-family: 'proxima_novasemibold';
+}
+.table-striped > tbody > tr:nth-child(odd) {
+    background-color: #ECEDFD;
+}
+table th {
+    text-align: center;
+}
+table#tbl-equipments td {
+    vertical-align: middle;
+}
+#equipments .section-header {
+    margin-bottom: 1em;
+}
+#equipments .section-header h2 {
+    padding: 12px 0;
+    color: #FFF;
+    background-color: #373C74;
+}
+#order-form .modal-heading {
+    margin-bottom: 1em;
+}
+#alert-order-request-email-sent {
+    display: none;
+    margin-top: 1em;
+}
+.action-delivered {
+    padding: 0.5em;
+    font-size: 14px;
+}
+
+.modal-title {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.content-inner{
+  position: relative;
+}
+
+.preLoader {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  z-index: 3;
+  top: 0%;
+}
+
+.preLoader-inner {
+  position: relative;
+}
+
+.preLoader-inner img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 25em;
+  bottom: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+section .title {
+  margin: 8em 0 0em;
+  padding: 0 0 1%;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+section .header-icon {
+  margin-bottom: 3.5em;
+}
+
+section .header-icon h2 {
+  font-size: 45px;
+  font-weight: normal;
+  color: #373c74;
+}
+section .title h2 {
+  font-size: 26px;
+  letter-spacing: 15px;
+  color: #373c74;
+}
+
+.contact input,
+.contact textarea,
+.contact select{
+  border: solid;
+  border-color: #373c74;
+  border-radius: 0;
+  background-color: #e6e6e6;
+  height: auto;
+  padding: 12px 11px;
+}
+.contact input[type="text"],
+.contact input[type="email"]{
+  border-width: 2px 2px 2px 0;
+}
+
+.contact input[type="file"] {
+  padding: 10px 10px 30px;
+}
+
+.contact textarea {
+  border-width: 2px;
+}
+
+.contact .input-group-addon {
+  border: solid;
+  border-color: #373c74;
+  border-width: 2px 0 2px 2px;
+  background-color: #373c74;
+  color: #fff;
+  border-radius: 0;
+}
+
+.contact select:focus,
+.contact input:focus,
+.contact textarea:focus {
+  background-color: #fff;
+  border-color: #373c74;
+}
+
+.contact p {
+  font-size: 16px;
+  margin-bottom: 3em;
+}
+
+.contact .btn {
+  border-radius: 0;
+  border-width: 2px;
+  border-color: #ed1c24;
+  font-size: 14px;
+}
+
+.contact .btn:hover,
+.contact .btn:active,
+.contact .btn:focus{
+  background: #373c74;
+  color: #fff;
+  border-color: #373c74;
+}
+
+.modal-custom {
+  height: 100%;
+}
+
+.modal-custom .close {
+  position: absolute;
+  right: 0;
+  padding: 20px 40px;
+  font-size: 45px;
+  z-index: 1000;
+}
+
+.details {
+  padding: 2em;
+  text-align: left;
+}
+.details p{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 1.5em;
+}
+
+.details li {
+  list-style: disc;
+  list-style-position: inside;
+}
+
+#tech-pack .intro {
+  text-align: left;
+  padding: 10px 1.5em;
+}
+
+#tech-pack #feature {
+  text-align: left;
+  padding-left: 1.5em;
+}
+
+#tech-pack #feature li {
+  list-style-position: inside;
+  list-style-type: disc;
+}
+
+.manual-content {
+  padding-top: 2em;
+  text-align: center;
+}
+
+.manual-content .item {
+  margin: 0 0 5em;
+}
+
+.manual-content h3{
+  font-size: 16px;
+  margin: 2em 0 1.5em;
+}
+
+.manual-content .item a span {
+  color: #373c74;  
+  font-size: 35px;
+}
+
+.manual-content .item a {
+  color: #666;
+  display: block;
+  border: 1px solid transparent;
+}
+
+.manual-content .item a:hover {
+  border: 1px dotted #666;
+  opacity: .8;
+}
+
+.manual-content .item a:active {
+  border: 1px dotted #666;
+}
+
+#manual-container .title {
+  margin: 6em 0 0em;
+}
+
+#manual-container .title h2{
+  font-size: 26px;
+  letter-spacing: 15px;
+}
+
+#manual-container .title h2 {
+  font-size: 20px;
+}
+
+#manual-container {
+  margin-bottom: 3.5em;
+}
+
+#typeform-widget-close {
+  position: absolute;
+  right: 10%;
+  padding: 15px 30px;
+  font-size: 45px;
+  z-index: 1000;
+  color: #000;
+  background: #fff;
+}
+
+table#tbl-orders td {
+    vertical-align: middle;
+}
+#orders .section-header {
+    margin-bottom: 1em;
+}
+#orders .section-header h2 {
+    padding: 12px 0;
+    color: #FFF;
+    background-color: #373C74;
+}
+
+#orders .note{
+  font-size: 11px;
+}
+
+.content-inner .container{
+	padding-top: 3%;
+}

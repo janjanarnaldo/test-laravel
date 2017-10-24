@@ -1,0 +1,116 @@
+{
+	"manual": [
+		{
+			"title": "Bike Manual",
+		 	"attachment": "/resources/manuals/Bike Manual - F45.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/bike-manual.png"
+		},
+		{
+			"title": "Chin-up Manual",
+		 	"attachment": "/resources/manuals/chin-up bar install.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/chin-up-manual.png"
+		},
+		{
+			"title": "Rig Install Manual",
+		 	"icon": "save-file",
+		 	"attachment": "/resources/manuals/Rig Install.pdf",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/rig-install-manual.png"
+		},
+		{
+			"title": "Sandbag Manual",
+		 	"attachment": "/resources/manuals/Sandbag Install.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/sandbag-manual.png"
+		},
+		{
+			"title": "F45 February Catalog",
+		 	"attachment": "/resources/manuals/F45_Cat-FEBRUARY 26 CHANGES w FORM.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/f45february-catalog.png"
+		},
+		{
+			"title": "Domestic Form",
+		 	"attachment": "/resources/manuals/FORM-F45DOMESTICv3.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/domestic-form.png"
+		},
+		{
+			"title": "International Form",
+		 	"attachment": "/resources/manuals/FORM-F45INTERNATIONALv3.pdf",
+		 	"icon": "save-file",
+		 	"description": "",
+		 	"button": "Download",
+		 	"thumbnail": "/img/international-form.png"
+		},
+		{
+			"title": "Assembly Manual",
+			"attachment": "http://www.concept2.com.au/files/pdf/us/indoor-rowers/D2_AssemblyInstrux.pdf",
+			"icon": "save-file",
+			"description": "",
+			"button": "Download",
+		 	"thumbnail": "/img/assembly-manual.png"
+		},
+		{
+			"title": "F45 Box Assembly",
+			"attachment": "https://vimeo.com/159309892/3473958cf8",
+			"icon": "blackboard",
+			"description": "",
+			"button": "Watch",
+		 	"thumbnail": "/img/f45box-assembly.png"
+		},
+		{
+			"title": "Assembly Videos",
+			"attachment": "http://www.concept2.com.au/service/indoor-rowers/model-d/assembly",
+			"icon": "blackboard",
+			"description": "",
+			"button": "Watch",
+		 	"thumbnail": "/img/assembly-videos.png"
+		},
+		{
+			"title": "Maintenance Videos and Tips",
+			"attachment": "http://www.concept2.com.au/service/indoor-rowers/model-d/maintenance",
+			"icon": "blackboard",
+			"description": "",
+			"button": "Watch",
+		 	"thumbnail": "/img/maintenance-videos-tips.png"
+		},
+		{
+			"title": "Schematic Diagrams and Repair Sheets",
+			"attachment": "http://www.concept2.com.au/service/indoor-rowers/model-d/manuals-and-schematics",
+			"icon": "save-file",
+			"description": "",
+			"button": "Download",
+		 	"thumbnail": "/img/schematic-diagrams-repair-sheets.png"
+		},
+		{
+			"title": "List of C2 recommended service agents",
+			"attachment": "http://www.concept2.com.au/service/find-technician",
+			"icon": "blackboard",
+			"description": "",
+			"button": "Watch",
+		 	"thumbnail": "/img/list-of-c2-recommended-service-agents.png"
+		},
+		{
+			"title": "List of Global Distributors",
+			"attachment": "http://www.concept2.com/company/international",
+			"icon": "blackboard",
+			"description": "",
+			"button": "Watch",
+		 	"thumbnail": "/img/list-of-global-distributors.png"
+		}
+	]
+}
